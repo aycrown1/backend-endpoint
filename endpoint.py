@@ -30,4 +30,4 @@ def get_api_data():
     return response
 
 if __name__ == '__main__':
-    endpoint.run(debug = True)
+    endpoint.run(debug=True)
